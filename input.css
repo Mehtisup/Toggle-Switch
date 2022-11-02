@@ -1,7 +1,0 @@
-input:checked + .slider {
-    background-color: #ccc;
-}
-input:checked + .slider::after {
-    transform: translateX(29px);
-    transition: 0.3s;
-}
